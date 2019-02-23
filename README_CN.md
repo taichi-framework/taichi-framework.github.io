@@ -1,4 +1,4 @@
-# 太极
+# ☯️ 太极
 
 **[For English users](README.md)**
 
