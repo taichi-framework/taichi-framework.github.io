@@ -2,6 +2,9 @@
 
 [中文用户看这里](Readme_CN.md)
 
+- [Download](https://github.com/taichi-framework/TaiChi/releases) 
+- [Modules](MODULE.md)
+
 ## Introduction 
 
 TaiChi is a framework to use Xposed module with or **without** Root/Unlock bootloader, it support Android 5.0 ~ **9.0**.
@@ -65,4 +68,4 @@ But there are still some difference from TaiChi Framework and Xposed Framework, 
 
 ## Contact me
 
-[email](mailto:twsxtd@gmail.com)
+[E-mail](mailto:twsxtd@gmail.com)
