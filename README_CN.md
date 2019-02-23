@@ -2,8 +2,8 @@
 
 **[For English users](README.md)**
 
-- [下载太极](https://github.com/taichi-framework/TaiChi/releases) 
-- [模块下载](MODULE_CN.md)
+- [下载](https://github.com/taichi-framework/TaiChi/releases) 
+- [模块](MODULE_CN.md)
 
 ## 什么是 太极·Magisk？
 
@@ -43,5 +43,3 @@
 [已知问题](https://github.com/tiann/EXposed/wiki/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%E5%92%8C%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%98)
 
 请仔细阅读每一个说明，谢谢配合。
-
-感谢群友 @北里 @装睡 @凌动千煞 @蠢狼 @夏妄 @祈の韵 提供的支持
