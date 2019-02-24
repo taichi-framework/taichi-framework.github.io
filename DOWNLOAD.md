@@ -1,5 +1,7 @@
 # Download
 
+[中文用户在这里下载](DOWNLOAD_CN.md)
+
 ## TaiChi APP
 
 Install TaiChi APP first, then you can use it to run modules.
