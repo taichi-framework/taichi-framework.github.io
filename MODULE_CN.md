@@ -2,7 +2,7 @@
 
 [For English users](MODULE.md)
 
-太极支持众多的模块，以下的所有模块都是经过严格验证的，可以放心使用。注意，有一些模块在 免Root 模式中无法运行；这是正常现象。
+太极支持众多的模块，以下的所有模块都是经过严格验证的，可以放心使用。注意，有一些模块在 免Root 模式中无法运行；这是正常现象。如果下面的模块列表没有你需要使用的模块，可以[提交适配](https://github.com/taichi-framework/TaiChi/issues)。
 
 ### 微信相关的模块
 
@@ -75,9 +75,9 @@
 
 ### 去广告
 
-- [大圣净化]大圣净化]
+- [大圣净化][大圣净化]
 - [AD快消][AD快消]
-- [ByeAD]ByeAD]
+- [ByeAD][ByeAD]
 
 ## 步数修改
 
@@ -127,6 +127,7 @@
 - [谁动了我的剪切板][谁动了我的剪切板]
 - [酷狗音乐][酷狗音乐]
 - [ChromePie][ChromePie]
+
 
 [MDWechat]: https://www.lanzous.com/i35s77a
 [微信学英语]: https://www.lanzous.com/i32fype
@@ -189,43 +190,43 @@
 [运动模拟器]: https://www.lanzous.com/i38d39g
 [运动修改器]: https://www.lanzous.com/i38d38f
 
-- [BluedHook]: https://www.lanzous.com/i34lktc
-- [指纹支付]: https://www.lanzous.com/i38d93g
-- [NoLitter]: https://www.lanzous.com/i35wrqd
-- [XInternalSD]: https://www.lanzous.com/i38d9ve
-- [AllTrans]: https://www.lanzous.com/i38ddre
-- [AppTranslator]: https://www.lanzous.com/i30hpaf
-- [去你大爷的内置浏览器]: https://www.lanzous.com/i32g3ed
-- [App Locale 2]: https://www.lanzous.com/i38dfih
-- [Google App 助手]: https://www.lanzous.com/i37zcna
-- [Gboard]: https://www.lanzous.com/i37zcbi
-- [对话框取消]: https://www.lanzous.com/i38dgrc
-- [Wifi模拟器]: https://www.lanzous.com/i37zckh
-- [连接服务修改器]: https://www.lanzous.com/i38drri
-- [假装分享]: https://www.lanzous.com/i362asj
-- [上帝模式]: https://www.lanzous.com/i38dssf
-- [文本自定义]: https://www.lanzous.com/i38duih
-- [XPrivacyLua]: https://www.lanzous.com/i2zk25e
-- [SnapFreedom]: https://www.lanzous.com/i38dwwd
-- [XInsta]: 
-- [CoolApkEx]: https://www.lanzous.com/i38dx4b
-- [允许截图]: https://www.lanzous.com/i38dvuf
-- [阻止更新]: https://www.lanzous.com/i38dxkh
-- [JustTrustMe]: https://www.lanzous.com/i32fykj
-- [应用宝Hook]: https://www.lanzous.com/i2zjxqf
-- [LuckyHooker]: https://www.lanzous.com/i34lkra
-- [Maxlock]: https://www.lanzous.com/i35wskd
-- [淘饭饭]: https://www.lanzous.com/i38dzba
-- [AIDEHelper]: https://www.lanzous.com/i38dyeh
-- [培训机构识别 VirtualXposed]: https://www.lanzous.com/i37zbvc
-- [Grindr]: https://www.lanzous.com/i38e1md
-- [Glitchify]: https://www.lanzous.com/i38e1kb
-- [YouTube AdAway]: https://www.lanzous.com/i38e1ij
-- [全部成为F]: https://www.lanzous.com/i38e47g
-- [youtubebackgroundplayback]: https://www.lanzous.com/i38e95e
-- [颜咚]: https://www.lanzous.com/i2zjvli
-- [哔哩布丁]: https://www.lanzous.com/i2zjveb
-- [LocationReportEnabler]: https://www.lanzous.com/i30hq5g
-- [谁动了我的剪切板]: https://www.lanzous.com/i38e5xi
-- [酷狗音乐]: https://www.lanzous.com/i38e6fg
-- [ChromePie]: https://www.lanzous.com/i38e61c
+[BluedHook]: https://www.lanzous.com/i34lktc
+[指纹支付]: https://www.lanzous.com/i38d93g
+[NoLitter]: https://www.lanzous.com/i35wrqd
+[XInternalSD]: https://www.lanzous.com/i38d9ve
+[AllTrans]: https://www.lanzous.com/i38ddre
+[AppTranslator]: https://www.lanzous.com/i30hpaf
+[去你大爷的内置浏览器]: https://www.lanzous.com/i32g3ed
+[App Locale 2]: https://www.lanzous.com/i38dfih
+[Google App 助手]: https://www.lanzous.com/i37zcna
+[Gboard]: https://www.lanzous.com/i37zcbi
+[对话框取消]: https://www.lanzous.com/i38dgrc
+[Wifi模拟器]: https://www.lanzous.com/i37zckh
+[连接服务修改器]: https://www.lanzous.com/i38drri
+[假装分享]: https://www.lanzous.com/i362asj
+[上帝模式]: https://www.lanzous.com/i38dssf
+[文本自定义]: https://www.lanzous.com/i38duih
+[XPrivacyLua]: https://www.lanzous.com/i2zk25e
+[SnapFreedom]: https://www.lanzous.com/i38dwwd
+[XInsta]: https://www.lanzous.com/i38e3ve
+[CoolApkEx]: https://www.lanzous.com/i38dx4b
+[允许截图]: https://www.lanzous.com/i38dvuf
+[阻止更新]: https://www.lanzous.com/i38dxkh
+[JustTrustMe]: https://www.lanzous.com/i32fykj
+[应用宝Hook]: https://www.lanzous.com/i2zjxqf
+[LuckyHooker]: https://www.lanzous.com/i34lkra
+[Maxlock]: https://www.lanzous.com/i35wskd
+[淘饭饭]: https://www.lanzous.com/i38dzba
+[AIDEHelper]: https://www.lanzous.com/i38dyeh
+[培训机构识别 VirtualXposed]: https://www.lanzous.com/i37zbvc
+[Grindr]: https://www.lanzous.com/i38e1md
+[Glitchify]: https://www.lanzous.com/i38e1kb
+[YouTube AdAway]: https://www.lanzous.com/i38e1ij
+[全部成为F]: https://www.lanzous.com/i38e47g
+[youtubebackgroundplayback]: https://www.lanzous.com/i38e95e
+[颜咚]: https://www.lanzous.com/i2zjvli
+[哔哩布丁]: https://www.lanzous.com/i2zjveb
+[LocationReportEnabler]: https://www.lanzous.com/i30hq5g
+[谁动了我的剪切板]: https://www.lanzous.com/i38e5xi
+[酷狗音乐]: https://www.lanzous.com/i38e6fg
+[ChromePie]: https://www.lanzous.com/i38e61c
