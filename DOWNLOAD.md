@@ -10,7 +10,7 @@ Install TaiChi APP first, then you can use it to run modules.
 
 If you want to download modules, go [Module Download](MODULE_CN.md)。
 
-In addition, TaiChi is Daily Build now, you can try new release every day. Just follow [Daily Build](daily-build).
+In addition, TaiChi is Daily Build now, you can try new release every day. Just follow [Daily Build][daily-build].
 
 
 ## TaiChi Magisk module
