@@ -1,6 +1,6 @@
 **[For English users](README.md)**
 
-[下载](DOWNLOAD.md) \| [模块](MODULE_CN.md) \| [讨论](https://t.me/vxp_group) \| [联系我](mailto:twsxtd@gmail.com)
+[**下载**](DOWNLOAD.md) \| [**模块**](MODULE_CN.md) \| [讨论](https://t.me/vxp_group)   \|   [联系我](mailto:twsxtd@gmail.com)
 
 ## 介绍
 
