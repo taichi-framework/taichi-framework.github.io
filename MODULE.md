@@ -1,4 +1,4 @@
-## Notice
+## Download
 
 [中文用户在这里下载](MODULE_CN.md)
 
