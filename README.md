@@ -1,7 +1,6 @@
 [中文用户看这里](README_CN.md)
 
-- [Download](https://github.com/taichi-framework/TaiChi/releases) 
-- [Modules](MODULE.md)
+[Download](https://github.com/taichi-framework/TaiChi/releases) \| [Modules](MODULE.md)
 
 ## Introduction 
 
