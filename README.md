@@ -1,6 +1,6 @@
 [中文用户看这里](README_CN.md)
 
-[Download](https://github.com/taichi-framework/TaiChi/releases) \| [Modules](MODULE.md) \| [Discussion](https://t.me/vxp_group) \| [Contact](mailto:twsxtd@gmail.com)
+[Download](DOWNLOAD.md) \| [Modules](MODULE.md) \| [Discussion](https://t.me/vxp_group) \| [Contact](mailto:twsxtd@gmail.com)
 
 ## Introduction 
 
