@@ -152,7 +152,7 @@
 [QQ红包]: https://www.lanzous.com/i32fymb
 
 [音量放大器]: https://www.lanzous.com/i35wsng
-[云村清洁工]: ttps://www.lanzous.com/i2zjxti
+[云村清洁工]: https://www.lanzous.com/i2zjxti
 [网易云音乐模块]: https://www.lanzous.com/i2zjx8h
 
 [抖音插件]: https://www.lanzous.com/i38cnij
