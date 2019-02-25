@@ -100,6 +100,7 @@ Here are some modules used by Chinese:
 - [微信QQ防止撤回][微信QQ防止撤回]
 - [微信红包][微信红包]
 - [V++模块][V++模块]
+- [微信助手][微信助手]
 
 ### QQ
 
@@ -142,6 +143,7 @@ Here are some modules used by Chinese:
 [微信QQ防止撤回]: https://www.lanzous.com/i2zjvre
 [微信红包]: https://www.lanzous.com/i32fyod
 [V++模块]: https://www.lanzous.com/i38cf6j
+[微信助手]: https://www.lanzous.com/i38ngxi
 
 [QQ净化]: https://www.lanzous.com/i38chlg
 [ColorQQ]: https://www.lanzous.com/i362ari
