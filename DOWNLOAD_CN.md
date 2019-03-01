@@ -4,7 +4,9 @@
 
 必须安装太极APP之后，所有的功能才能正常使用。
 
-[**稳定版下载**][stable]
+[**稳定版下载地址1**][stable1]
+
+[**稳定版下载地址2**][stable2]
 
 如果你需要下载模块，可以去 [模块下载](MODULE_CN.md)。
 
@@ -20,7 +22,8 @@
 
 另外，你可以关注 [TaiChi-Magisk][taichi-magisk] 获取最新动态。
 
-[stable]: https://www.lanzous.com/i381qqj
+[stable1]: https://u19604958.ctfile.com/fs/19604958-344052105
+[stable2]: https://www.lanzous.com/i3a6vrc
 [daily-build]: https://github.com/taichi-framework/Daily-Build/releases
 [taichi-magisk17]: https://www.lanzous.com/i37r5vi
 [taichi-magisk16]: https://www.lanzous.com/i37r5kh
