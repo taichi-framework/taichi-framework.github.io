@@ -26,4 +26,4 @@ By the way, you can follow [TaiChi-Magisk][taichi-magisk] to get latest news.
 [daily-build]: https://github.com/taichi-framework/Daily-Build/releases
 [taichi-magisk17]: https://www.lanzous.com/i37r5vi
 [taichi-magisk16]: https://www.lanzous.com/i37r5kh
-[taichi-magisk]: https://github.com/taichi-framework/TaiChi-Magisk
+[taichi-magisk]: https://github.com/taichi-framework/TaiChi-Magisk/releases

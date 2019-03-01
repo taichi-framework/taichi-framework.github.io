@@ -45,15 +45,15 @@
 
 太极的免 Root 模式虽然无需解锁 Bootloader，使用起来异常方便，但是有一些缺点，比如无法修改系统、必须卸载原有APP。因此我开发了一个 magisk 模块，这个模块可以通过 Magisk 赋予太极更强大的功能；从而突破免 Root 模式的种种限制。
 
-当你刷入太极提供的 [magisk 模块](https://github.com/tiann/TaiChi-Magisk) 之后，太极 APP 会自动从 免Root 模式切换到 Magisk 模式：太极 APP + 太极 Magisk 模块 = 太极·Magisk。当 太极的 magisk 模块被禁用或者卸载之后，太极会自动回到 免Root模式运行。
+当你刷入太极提供的 [Magisk 模块](https://github.com/taichi-framework/TaiChi-Magisk/releases) 之后，太极 APP 会自动从 免Root 模式切换到 Magisk 模式：太极 APP + 太极 Magisk 模块 = 太极·Magisk。当 太极的 magisk 模块被禁用或者卸载之后，太极会自动回到 免Root模式运行。
 
-如果你需要使用 Magisk 模式，请仔细阅读 [Wiki](https://github.com/tiann/Tai-Chi/wiki/taichi-magisk-beta)。
+如果你需要使用 Magisk 模式，请仔细阅读 [Wiki](https://github.com/taichi-framework/TaiChi/wiki/taichi-magisk-zh)。
 
 ## Xposed 模块支持
 
 太极是一个框架，因此开发者可以写出自己的模块在太极中运行。太极的模块是兼容 Xposed 模块的（少部分特性不支持），因此你只需要写出 Xposed 风格的模块就能在太极中运行。
 
-不过太极和 Xposed 并不一样，因此有一些地方需要注意，请移步 [For Xposed Developers](https://github.com/tiann/Tai-Chi/wiki/For-Xposed-developer)
+不过太极和 Xposed 并不一样，因此有一些地方需要注意，请移步 [For Xposed Developers](https://github.com/taichi-framework/TaiChi/wiki/For-Xposed-developer)
 
 ## 讨论
 

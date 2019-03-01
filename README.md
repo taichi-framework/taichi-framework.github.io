@@ -48,15 +48,15 @@ Non-root mode of TaiChi has some shortcomming even though it do not need to unlo
 1. magisk mode can hook into system process.
 2. magisk mode don't need to modify the apk, and the signature keeps same.
 
-When you flashed the [magisk module](https://github.com/taichi-framework/Daily-Build/releases) provided by TaiChi, TaiChi app switch to magisk mode automaticly: TaiChi App + magisk module = TaiChi·Magisk. When the magisk module is disabled or removed, TaiChi app turn to non-root mode.
+When you flashed the [Magisk Module](https://github.com/taichi-framework/Daily-Build/releases) provided by TaiChi, TaiChi app switch to magisk mode automaticly: TaiChi App + magisk module = TaiChi·Magisk. When the magisk module is disabled or removed, TaiChi app turn to non-root mode.
 
-If you want to use magisk mode, please read the [wiki](https://github.com/tiann/Tai-Chi/wiki/taichi-magisk-beta) carefully.
+If you want to use magisk mode, please read the [Wiki](https://github.com/taichi-framework/TaiChi/wiki/taichi-magisk-beta) carefully.
 
 ## For Developers 
 
 TaiChi is a Framework, developers can wrote modules to do hooks. The TaiChi modules is fully compatible to Xposed modules, so just wrote the Xposed-Styled modules and it can run well in TaiChi, too.
 
-But there are still some difference from TaiChi Framework and Xposed Framework, please refer [For Xposed Developers](https://github.com/tiann/Tai-Chi/wiki/For-Xposed-developer)
+But there are still some difference from TaiChi Framework and Xposed Framework, please refer [For Xposed Developers](https://github.com/taichi-framework/TaiChi/wiki/For-Xposed-developer)
 
 ## Discuss
 
