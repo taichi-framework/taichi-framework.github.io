@@ -6,8 +6,8 @@
 
 Install TaiChi APP first, then you can use it to run modules.
 
-[**TaiChi Download Address 1**][stable1]
-[**TaiChi Download Address 2**][stable2]
+- [**TaiChi Download Address 1**][stable1]
+- [**TaiChi Download Address 2**][stable2]
 
 If you want to download modules, go [Module Download](MODULE_CN.md)。
 
