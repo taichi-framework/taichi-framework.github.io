@@ -140,7 +140,7 @@ Here are some modules used by Chinese:
 [微信学英语]: https://www.lanzous.com/i32fype
 [畅玩微信]: https://www.lanzous.com/i38cb0j
 [微X模块]: https://www.lanzous.com/i2zjxkj
-[微信增强插件]: https://www.lanzous.com/i34lp3g
+[微信增强插件]: 微信增强插件/index_cn
 [微信斗图神器]: https://www.lanzous.com/i34lp4h
 [微信群消息助手]: https://www.lanzous.com/i38ccvg
 [微信分组模块]: https://www.lanzous.com/i34lp5i
