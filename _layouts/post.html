@@ -14,9 +14,16 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-      <!-- <section id="main_content" class="inner"> -->
+      <section id="main_content" class="inner">
         {{ content }}
-      <!-- </section> -->
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">{{ site.title | default: site.github.repository_name }} Copyright 2019 <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      </footer>
     </div>
 
     {% if site.google_analytics %}
