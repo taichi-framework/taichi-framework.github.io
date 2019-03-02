@@ -13,14 +13,14 @@
   <body>
 
     <!-- MAIN CONTENT -->
-    <div class="outer">
+    <div class="outer" style="background: #f2f2f2;">
       <section class="inner">
         {{ content }}
       </section>
     </div>
 
     <!-- FOOTER  -->
-    <div class="outer">
+    <div id="footer_wrap" class="outer">
       <footer class="inner">
         <p class="copyright">{{ site.title | default: site.github.repository_name }} Copyright 2019 <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
       </footer>
