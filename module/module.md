@@ -1,4 +1,9 @@
-## Download
+---
+title: TaiChi module downloads
+layout: post
+---
+
+## TaiChi module downloads
 
 [中文用户在这里下载](module_cn.md)
 

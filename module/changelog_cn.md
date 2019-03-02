@@ -1,5 +1,5 @@
 ---
-title: 模块适配引擎更新日志
+title: 太极模块适配引擎更新日志
 layout: post
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Compatibility engine changelog
+title: TaiChi Compatibility engine changelog
 layout: post
 ---
 

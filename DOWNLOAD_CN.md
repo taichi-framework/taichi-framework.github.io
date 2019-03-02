@@ -1,3 +1,8 @@
+---
+title: 太极下载
+layout: post
+---
+
 # 下载
 
 ## 太极 APP

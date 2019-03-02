@@ -1,3 +1,8 @@
+---
+title: 太极模块下载
+layout: post
+---
+
 ## 模块下载
 
 [For English users](module.md)
