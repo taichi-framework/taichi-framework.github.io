@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 title: TaiChi
 description: A framework to use Xposed modules with or without Root/Unlock bootloader, supportting Android 5.0 ~ 9.0.
 show_downloads: false
+github:
+  is_project_page: false
