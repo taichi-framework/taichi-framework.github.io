@@ -1,6 +1,8 @@
-## 模块适配引擎更新日志
+## Compatibility engine changelog
 
-### 2019/3/1 版本号: 4
+[中文用户看这里](changelog_cn)
 
-- 模块更新：淘饭饭 1.2.1
-- 新模块：一加熄屏模块 1.0
+### 2019/3/1 version: 4
+
+- Module update : Tao FanFan 1.2.1
+- New module: OnePlus AODMOD 1.0
