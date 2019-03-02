@@ -5,7 +5,7 @@ layout: post
 
 # TaiChi Download
 
-[中文用户在这里下载](DOWNLOAD_CN.md)
+[中文用户在这里下载](download_cn.md)
 
 ## TaiChi APP
 
