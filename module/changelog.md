@@ -10,7 +10,7 @@ layout: post
 ### 2019/3/2 version: 5
 
 - New module: Reflect master
-- Module update: Music Notification 1.0 / Q++ 1.2.5 / ColorQQ 1.2.5 
+- Module update: Music Notification 1.1 / Q++ 1.2.5 / ColorQQ 1.2.5 
 
 ### 2019/3/1 version: 4
 
