@@ -7,6 +7,11 @@ layout: post
 
 [For English users](changelog)
 
+### 2019/3/2 version: 5
+
+- 新模块：反射大师
+- 模块更新： Music Notification 1.1 / Q++ 1.2.5 / ColorQQ 1.2.5 
+
 ### 2019/3/1 版本号: 4
 
 - 模块更新：淘饭饭 1.2.1
