@@ -48,7 +48,7 @@ Non-root mode of TaiChi has some shortcomming even though it do not need to unlo
 1. magisk mode can hook into system process.
 2. magisk mode don't need to modify the apk, and the signature keeps same.
 
-When you flashed the [Magisk Module](https://github.com/taichi-framework/Daily-Build/releases) provided by TaiChi, TaiChi app switch to magisk mode automaticly: TaiChi App + magisk module = TaiChi·Magisk. When the magisk module is disabled or removed, TaiChi app turn to non-root mode.
+When you flashed the [Magisk Module](https://github.com/taichi-framework/TaiChi-Magisk/releases) provided by TaiChi, TaiChi app switch to magisk mode automaticly: TaiChi App + magisk module = TaiChi·Magisk. When the magisk module is disabled or removed, TaiChi app turn to non-root mode.
 
 If you want to use magisk mode, please read the [Wiki](https://github.com/taichi-framework/TaiChi/wiki/taichi-magisk-beta) carefully.
 
