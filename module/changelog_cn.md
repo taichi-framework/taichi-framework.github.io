@@ -1,3 +1,8 @@
+---
+title: 模块适配引擎更新日志
+layout: post
+---
+
 ## 模块适配引擎更新日志
 
 [For English users](changelog)

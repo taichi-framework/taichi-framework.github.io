@@ -1,3 +1,8 @@
+---
+title: Compatibility engine changelog
+layout: post
+---
+
 ## Compatibility engine changelog
 
 [中文用户看这里](changelog_cn)
