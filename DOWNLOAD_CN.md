@@ -8,7 +8,7 @@
 
 [**稳定版下载地址2**][stable2]
 
-如果你需要下载模块，可以去 [模块下载](MODULE_CN.md)。
+如果你需要下载模块，可以去 [模块下载](module_cn.md)。
 
 另外，太极 APP 目前处于 Daily Build 模式，每天都会有最新的安装包可供测试和使用。关注 [Daily Build][daily-build] 即可。
 

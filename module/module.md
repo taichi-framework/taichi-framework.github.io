@@ -1,6 +1,6 @@
 ## Download
 
-[中文用户在这里下载](MODULE_CN.md)
+[中文用户在这里下载](module_cn.md)
 
 TaiChi supports a lot of Xposed modules, the modules below are verified by myself, it is safe to use. If you want to use other modules which are not supported, please file an [Issue](https://github.com/taichi-framework/TaiChi/issues).
 
