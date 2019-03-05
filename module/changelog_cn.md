@@ -7,6 +7,12 @@ layout: post
 
 [For English users](changelog)
 
+### 2010/3/4 version: 8
+
+- 模块更新：一加熄屏模块 1.2
+- 模块更新：Google App助手 1.8.2
+- 模块更新：运动修改器 1.4.3
+
 ### 2019/3/2 version: 5
 
 - 新模块：反射大师
