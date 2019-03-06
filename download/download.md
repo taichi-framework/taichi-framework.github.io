@@ -14,7 +14,7 @@ Install TaiChi APP first, then you can use it to run modules.
 - [**TaiChi Download Address 1**][stable1]
 - [**TaiChi Download Address 2**][stable2]
 
-If you want to download modules, go [Module Download](../module/module_cn.md)。
+If you want to download modules, go [Module Download](../module/module.md)。
 
 In addition, TaiChi is Daily Build now, you can try new release every day. Just follow [Daily Build][daily-build].
 
