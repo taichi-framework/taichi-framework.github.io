@@ -7,6 +7,13 @@ layout: post
 
 [For English users](changelog)
 
+### 2019/3/6 version: 10
+
+- 模块更新：QQHelper 1.3.1
+- 模块更新：V++ 1.0.5
+- 模块更新：一加熄屏模块 1.3
+- 新模块：麻花助手 0.6.5
+
 ### 2010/3/4 version: 8
 
 - 模块更新：一加熄屏模块 1.2
