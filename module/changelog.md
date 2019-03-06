@@ -7,6 +7,14 @@ layout: post
 
 [中文用户看这里](changelog_cn)
 
+### 2019/3/6 version: 10
+
+- Module update: QQHelper 1.3.1
+- Module update:V++ 1.0.5
+- Module update:一加熄屏模块 1.3
+- New module: 麻花助手 0.6.5
+- Module update:抖音助手 4.3
+
 ### 2019/3/2 version: 5
 
 - New module: Reflect master
