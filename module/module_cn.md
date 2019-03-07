@@ -7,7 +7,7 @@ layout: post
 
 [For English users](module.md)
 
-太极支持众多的模块，以下的所有模块都是经过严格验证的，可以放心使用。注意，有一些模块在 免Root 模式中无法运行；这是正常现象。如果下面的模块列表没有你需要使用的模块，可以[提交适配](https://github.com/taichi-framework/TaiChi/issues)。
+太极支持众多的模块，以下的所有模块都是经过严格验证的，可以放心使用。注意，模块右上角带有 ™ 标记的，代表这个模块只有 **T**aiChi-**M**agisk才能使用；这是正常现象。如果下面的模块列表没有你需要使用的模块，可以[提交适配](https://github.com/taichi-framework/TaiChi/issues)。
 
 ### 微信相关的模块
 
@@ -45,38 +45,38 @@ layout: post
 ### 抖音相关的模块
 
 - [抖音插件][抖音插件]
-- [抖音助手][抖音助手]
+- [抖音助手™][抖音助手]
 - [3000模组][3000模组]
 
 ## 钉钉相关
 
 - [锤锤][锤锤]
-- [钉钉打卡][钉钉打卡]
+- [钉钉打卡™][钉钉打卡]
 - [钉钉红包][钉钉红包]
 
 ### 系统相关的模块
 
-- [核心破解][核心破解]
-- [边缘手势][边缘手势]
-- [绿色守护][绿色守护]
-- [应用控制器][应用控制器]
-- [吃米][吃米]
-- [验证码提取器][验证码提取器]
-- [Scene][Scene]
-- [MusciNotification][MusciNotification]
-- [Sleep][Sleep]
-- [无障碍Daemon][无障碍Daemon]
-- [PerAppHacking][PerAppHacking]
-- [移除截屏延迟][移除截屏延迟]
+- [核心破解™][核心破解]
+- [边缘手势™][边缘手势]
+- [绿色守护™][绿色守护]
+- [应用控制器™][应用控制器]
+- [吃米™][吃米]
+- [验证码提取器™][验证码提取器]
+- [Scene™][Scene]
+- [MusciNotification™][MusciNotification]
+- [Sleep™][Sleep]
+- [无障碍Daemon™][无障碍Daemon]
+- [PerAppHacking™][PerAppHacking]
+- [移除截屏延迟™][移除截屏延迟]
 
 ### 虚拟定位
 
-- [模拟位置][模拟位置]
-- [Cataclysm][Cataclysm]
+- [模拟位置™][模拟位置]
+- [Cataclysm™][Cataclysm]
 
 ### 设备伪装
 
-- [应用变量][应用变量]
+- [应用变量][应用变量]™
 - [Device Faker][Device Faker]
 
 ### 去广告
@@ -87,22 +87,22 @@ layout: post
 
 ## 步数修改
 
-- [运动模拟器][运动模拟器]
+- [运动模拟器™][运动模拟器]
 - [运动修改器][运动修改器]
-- [运动加速器][运动加速器]
+- [运动加速器™][运动加速器]
 
 ### 其他模块
 
 - [BluedHook][BluedHook]
 - [指纹支付][指纹支付]
-- [NoLitter][NoLitter]
+- [NoLitter™][NoLitter]
 - [XInternalSD][XInternalSD]
 - [AllTrans][AllTrans]
 - [AppTranslator][AppTranslator]
 - [去你大爷的内置浏览器][去你大爷的内置浏览器]
 - [App Locale 2][App Locale 2]
-- [Google App 助手][Google App 助手]
-- [Gboard][Gboard]
+- [Google App 助手™][Google App 助手]
+- [Gboard™][Gboard]
 - [对话框取消][对话框取消]
 - [Wifi模拟器][Wifi模拟器]
 - [连接服务修改器][连接服务修改器]
@@ -113,7 +113,7 @@ layout: post
 - [SnapFreedom][SnapFreedom]
 - [XInsta][XInsta]
 - [CoolApkEx][CoolApkEx]
-- [允许截图][允许截图]
+- [允许截图™][允许截图]
 - [阻止更新][阻止更新]
 - [JustTrustMe][JustTrustMe]
 - [应用宝Hook][应用宝Hook]
@@ -128,9 +128,9 @@ layout: post
 - [全部成为F][全部成为F]
 - [youtubebackgroundplayback][youtubebackgroundplayback]
 - [颜咚][颜咚]
-- [哔哩布丁][哔哩布丁]
-- [LocationReportEnabler][LocationReportEnabler]
-- [谁动了我的剪切板][谁动了我的剪切板]
+- [哔哩布丁™][哔哩布丁]
+- [LocationReportEnabler™][LocationReportEnabler]
+- [谁动了我的剪切板™][谁动了我的剪切板]
 - [酷狗音乐][酷狗音乐]
 - [ChromePie][ChromePie]
 
