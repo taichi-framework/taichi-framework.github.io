@@ -7,6 +7,12 @@ layout: post
 
 [For English users](changelog)
 
+### 2019/3/7 version: 12
+
+- 模块更新：抖音插件 2.5
+- 模块更新：Q++ 1.2.6
+- 新模块：微视助手 1.6.6
+
 ### 2019/3/6 version: 10
 
 - 模块更新：QQHelper 1.3.1
