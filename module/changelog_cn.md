@@ -7,6 +7,13 @@ layout: post
 
 [For English users](changelog)
 
+### 2019/3/10 version: 25
+
+- 模块更新：淘饭饭 1.2.3
+- 模块更新：一加熄屏增强 1.5
+- 模块更新：AppTranslator 1.1.5
+- 模块更新：麻花助手 0.6.6
+
 ### 2019/3/7 version: 16
 
 - 新模块：MIUI熄屏显示通知图标
