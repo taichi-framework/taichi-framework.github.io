@@ -68,6 +68,9 @@ layout: post
 - [无障碍Daemon™][无障碍Daemon]
 - [PerAppHacking™][PerAppHacking]
 - [移除截屏延迟™][移除截屏延迟]
+- [重力工具箱 Android P专用™][重力工具箱P]
+- [MIUIAODNotification™][MIUIAODNotification]
+- [一加熄屏增强][一加熄屏增强]
 
 ### 虚拟定位
 
@@ -133,6 +136,7 @@ layout: post
 - [谁动了我的剪切板™][谁动了我的剪切板]
 - [酷狗音乐][酷狗音乐]
 - [ChromePie][ChromePie]
+- [反射大师][反射大师]
 
 
 [MDWechat]: https://www.lanzous.com/i35s77a
@@ -237,3 +241,7 @@ layout: post
 [谁动了我的剪切板]: https://www.lanzous.com/i38e5xi
 [酷狗音乐]: https://www.lanzous.com/i38e6fg
 [ChromePie]: https://www.lanzous.com/i38e61c
+[反射大师]: https://www.lanzous.com/i3e9y0f
+[重力工具箱P]: https://www.lanzous.com/i3e9tmh
+[MIUIAODNotification]: https://www.lanzous.com/i3e9wfi
+[一加熄屏增强]: https://www.lanzous.com/i3dc7ej
