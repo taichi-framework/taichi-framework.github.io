@@ -7,6 +7,12 @@ layout: post
 
 [For English users](changelog)
 
+### 2019/3/11 version: 31
+- 新模块：重力工具箱 9.0.0-beta
+- 新模块：音效增强器 1.0
+- 模块更新：Google App助手 1.8.3
+- 模块更新：MIUIAODNotification 1.1
+
 ### 2019/3/10 version: 25
 
 - 模块更新：淘饭饭 1.2.3
