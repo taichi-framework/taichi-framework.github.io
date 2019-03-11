@@ -23,6 +23,9 @@ TaiChi supports a lot of Xposed modules, the modules below are verified by mysel
 - [Accessibility Daemon][无障碍Daemon]
 - [PerAppHacking][PerAppHacking]
 - [Remove ScreenShot Delay][移除截屏延迟]
+- [Gravity Box for Android P][重力工具箱P]
+- [MIUIAODNotification][MIUIAODNotification]
+- [One Plus AOD mod][一加熄屏增强]
 
 ### Fake Location
 
@@ -46,7 +49,7 @@ TaiChi supports a lot of Xposed modules, the modules below are verified by mysel
 - [Sport Editor][运动修改器]
 - [Sport accelerator][运动加速器]
 
-### 其他模块
+### Other modules
 
 - [BluedHook][BluedHook]
 - [指纹支付][指纹支付]
@@ -88,6 +91,7 @@ TaiChi supports a lot of Xposed modules, the modules below are verified by mysel
 - [谁动了我的剪切板][谁动了我的剪切板]
 - [酷狗音乐][酷狗音乐]
 - [ChromePie][ChromePie]
+- [Reflection Master][反射大师]
 
 Here are some modules used by Chinese:
 
@@ -238,5 +242,9 @@ Here are some modules used by Chinese:
 [谁动了我的剪切板]: https://www.lanzous.com/i38e5xi
 [酷狗音乐]: https://www.lanzous.com/i38e6fg
 [ChromePie]: https://www.lanzous.com/i38e61c
+[反射大师]: https://www.lanzous.com/i3e9y0f
+[重力工具箱P]: https://www.lanzous.com/i3e9tmh
+[MIUIAODNotification]: https://www.lanzous.com/i3e9wfi
+[一加熄屏增强]: https://www.lanzous.com/i3dc7ej
 
 
