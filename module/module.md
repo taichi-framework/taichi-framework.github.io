@@ -35,7 +35,6 @@ TaiChi supports a lot of Xposed modules, the modules below are verified by mysel
 ### Fake Device
 
 - [App Env][应用变量]
-- [Device Faker][Device Faker]
 
 ### Ad remover
 
