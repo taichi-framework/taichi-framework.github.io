@@ -80,7 +80,6 @@ layout: post
 ### 设备伪装
 
 - [应用变量][应用变量]™
-- [Device Faker][Device Faker]
 
 ### 去广告
 
