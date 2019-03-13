@@ -138,6 +138,7 @@ Here are some modules used by Chinese:
 - [锤锤][锤锤]
 - [钉钉打卡][钉钉打卡]
 - [钉钉红包][钉钉红包]
+- [钉钉助手][钉钉助手]
 
 [MDWechat]: https://www.lanzous.com/i35s77a
 [微信学英语]: https://www.lanzous.com/i32fype
@@ -173,10 +174,11 @@ Here are some modules used by Chinese:
 [锤锤]: https://www.lanzous.com/i38cr1g
 [钉钉打卡]: https://www.lanzous.com/i38cr5a
 [钉钉红包]: https://www.lanzous.com/i32fync
+[钉钉助手]: https://www.lanzous.com/i3etbsf
 
 [核心破解]: https://www.lanzous.com/i2zjxrg
 [边缘手势]: https://www.lanzous.com/i38csyf
-[绿色守护]: https://www.lanzous.com/i2zjvda
+[绿色守护]: https://www.lanzous.com/i3et9wh
 [应用控制器]: https://www.lanzous.com/i2zjvbi
 [吃米]: https://www.lanzous.com/i37zbyf
 [验证码提取器]: https://www.lanzous.com/i35yevc
