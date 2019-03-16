@@ -7,6 +7,17 @@ layout: post
 
 [For English users](changelog)
 
+### 2019/3/16 version: 39
+
+- 2个隐藏root的新模块：androidz, rootcloak
+- 新模块：重力工具箱O
+- 新模块：强制全屏 3.0.4
+- 新模块：微信密友 1.0.3
+- 新模块：小米净化
+- 模块更新：畅玩微信 1.8.8.8 / 重力工具箱P / 麻花助手 0.6.10
+- 模块更新：BluedHook 1.1.3 / Grindrmad 5.3.1.2 / 淘饭饭 1.2.3.1
+- 模块更新：Q++ 1.2.7 / ColorQQ 1.3.0
+
 ### 2019/3/11 version: 31
 - 新模块：重力工具箱 9.0.0-beta
 - 新模块：音效增强器 1.0
