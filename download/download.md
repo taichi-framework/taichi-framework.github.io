@@ -12,7 +12,6 @@ layout: post
 Install TaiChi APP first, then you can use it to run modules.
 
 - [**TaiChi Download Address 1**][stable1]
-- [**TaiChi Download Address 2**][stable2]
 
 If you want to download modules, go [Module Download](../module/module.md)。
 
@@ -28,7 +27,7 @@ If you want to use Magisk mode of TaiChi, you must flash Magisk module of TaiChi
 
 By the way, you can follow [TaiChi-Magisk][taichi-magisk] to get latest news.
 
-[stable1]: https://u19604958.ctfile.com/fs/19604958-344052105
+[stable1]: https://u19604958.ctfile.com/fs/19604958-355478839
 [stable2]: https://www.lanzous.com/i3a6vrc
 [daily-build]: https://github.com/taichi-framework/Daily-Build/releases
 [taichi-magisk17]: https://www.lanzous.com/i37r5vi
