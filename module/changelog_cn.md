@@ -7,6 +7,14 @@ layout: post
 
 [For English users](changelog)
 
+### 2019/3/25 version: 49
+
+- 模块更新：大圣净化 1.8.4 / 畅玩微信 1.8.8.8 / 重力工具箱P beta4 / 微信密友 1.1.0
+- 新模块：微聚 0.3beta
+- 新模块：legend
+- 新模块：mockmocklocation 1.4
+- 新模块：sudohide 1.28
+
 ### 2019/3/16 version: 39
 
 - 2个隐藏root的新模块：androidz, rootcloak
