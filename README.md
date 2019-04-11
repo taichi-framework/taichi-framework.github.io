@@ -16,7 +16,7 @@ Here are some features of Taichi:
 
 1. TaiChi has **fully supports for Android Pie**.
 2. TaiChi can run in **non-root mode**.
-3. TaiChi does not effect the android system and it does not hook all apps in system. Only the apps you want to apply Xposed modules are hooked. Other apps in system run in a completely clean environment, which means TaiChi can **pass SafeNet easily**.
+3. TaiChi does not effect the android system and it does not hook all apps in system. Only the apps you want to apply Xposed modules are hooked. Other apps in system run in a completely clean environment, which means TaiChi can **pass SafetyNet easily**.
 4. TaiChi **doesn't need to reboot** sysytem in most cases.
 5. TaiChi is **hard to detect**. TaiChi doesn't modify the libart and app_process, it has nearly no noticeable characteristics.
 
